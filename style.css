@@ -1,1 +1,55 @@
-r
+
+h1, h2 {
+	font-family: bold, serif;
+	font-size: 45px;
+}
+
+
+h1{
+	color : darkviolet;
+	size: letter;
+}
+
+
+h2{
+	color : black;
+
+}
+
+
+.text-center {
+	text-align: center;
+}
+
+
+body{
+	color: black;
+	background-color : hotpink;
+	font-size: 25px;
+}
+
+
+div {
+	border: solid 1px black;
+	background-color: whitesmoke;
+	margin: 30px;
+	border-radius: 8px;
+}
+
+
+#photodeprofil {
+	border-radius: 50%;
+}
+
+
+.img-circle {
+border-radius: 50%;
+}
+
+
+.bouton:hover{
+	background: hotpink;
+	color: whitesmoke;
+	transition: 	0,5s;
+
+}
